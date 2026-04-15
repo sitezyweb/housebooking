@@ -1,0 +1,12 @@
+The Veranta — local website copy
+================================
+
+Folder (edit these files when the site is updated):
+  C:\Users\Dell\Downloads\veranta_site
+
+Open in your browser (paste into the address bar):
+  file:///C:/Users/Dell/Downloads/veranta_site/index.html
+
+Files: index.html, styles.css, script.js
+
+Note: This is a file on your PC, not a public internet link. To get an https:// link, upload this folder to a host (e.g. Netlify, GitHub Pages, your own server).
